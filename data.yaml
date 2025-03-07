@@ -1,0 +1,13 @@
+train: C:\Users\Innomaker Dev\Downloads\coral-sol\train
+val: C:\Users\Innomaker Dev\Downloads\coral-sol\valid
+test: C:\Users\Innomaker Dev\Downloads\coral-sol\test
+
+nc: 1
+
+names: ["coral"]
+
+roboflow_workspace: coralsol-jhwbk
+roboflow_project: sun-coral-identification
+roboflow_version: 13
+roboflow_license: CC BY 4.0
+roboflow_url: https://universe.roboflow.com/coralsol-jhwbk/sun-coral-identification/dataset/13
